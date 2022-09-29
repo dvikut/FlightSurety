@@ -1,0 +1,118 @@
+{
+  "airlines": [
+    {
+      "fs": "VH",
+      "iata": "VH",
+      "icao": "ALV",
+      "name": "Aeropostal",
+      "active": true
+    },
+    {
+      "fs": "PQ",
+      "iata": "PQ",
+      "icao": "APG",
+      "name": "Philippines AirAsia",
+      "active": true
+    },
+    {
+      "fs": "LB*",
+      "iata": "LB",
+      "name": "Air Costa",
+      "active": true
+    },
+    {
+      "fs": "EFY",
+      "icao": "EFY",
+      "name": "EasyFly",
+      "active": true
+    },
+    {
+      "fs": "CT",
+      "iata": "CT",
+      "icao": "CYL",
+      "name": "Alitalia CityLiner",
+      "active": true
+    },
+    {
+      "fs": "ZX",
+      "iata": "ZX",
+      "icao": "GGN",
+      "name": "Air Georgian",
+      "active": true
+    },
+    {
+      "fs": "UX",
+      "iata": "UX",
+      "icao": "AEA",
+      "name": "Air Europa",
+      "active": true
+    },
+    {
+      "fs": "7S",
+      "iata": "7S",
+      "icao": "RYA",
+      "name": "Ryan Air",
+      "active": true
+    },
+    {
+      "fs": "V8",
+      "iata": "V8",
+      "icao": "VAS",
+      "name": "Atran",
+      "active": true
+    },
+    {
+      "fs": "EVE",
+      "iata": "E9",
+      "icao": "EVE",
+      "name": "Evelop Airlines",
+      "active": true
+    },
+    {
+      "fs": "H5*",
+      "iata": "H5",
+      "name": "Haiti Aviation",
+      "active": true
+    },
+    {
+      "fs": "GL*",
+      "iata": "GL",
+      "name": "Airglow Aviation",
+      "active": true
+    },
+    {
+      "fs": "TL*",
+      "iata": "TL",
+      "icao": "ANO",
+      "name": "Airnorth",
+      "active": true
+    },
+    {
+      "fs": "VIT",
+      "iata": "MV",
+      "icao": "VIT",
+      "name": "Aviastar",
+      "active": true
+    },
+    {
+      "fs": "TE*",
+      "iata": "TE",
+      "icao": "IGA",
+      "name": "Sky Taxi",
+      "active": true
+    },
+    {
+      "fs": "AGY",
+      "iata": "EO",
+      "icao": "AGY",
+      "name": "Air Go Egypt",
+      "active": true
+    },
+    {
+      "fs": "I4*",
+      "iata": "I4",
+      "name": "Island Air Express",
+      "active": true
+    }
+  ]
+}
